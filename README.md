@@ -1,5 +1,5 @@
 ## Olá, eu sou o Carlos Eduardo!😊
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=mat+noob)](https://git.io/typing-svg)
+
 - 🔭 Hoje trabalho com licitações públicas
 - 🌱 Estudando SQL, PBI e Python
 
